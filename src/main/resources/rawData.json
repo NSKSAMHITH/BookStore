@@ -1,0 +1,72 @@
+[
+  {
+    "bookId": "101",
+    "name": "The Great Gatsby",
+    "price": "10.99",
+    "author": "F. Scott Fitzgerald",
+    "description": "A classic novel about the American Dream."
+  },
+  {
+    "bookId": "102",
+    "name": "To Kill a Mockingbird",
+    "price": "9.99",
+    "author": "Harper Lee",
+    "description": "A story of racial injustice and moral growth."
+  },
+  {
+    "bookId": "103",
+    "name": "1984",
+    "price": "8.99",
+    "author": "George Orwell",
+    "description": "A dystopian novel about totalitarianism."
+  },
+  {
+    "bookId": "104",
+    "name": "Pride and Prejudice",
+    "price": "7.99",
+    "author": "Jane Austen",
+    "description": "A romantic novel about manners and marriage."
+  },
+  {
+    "bookId": "105",
+    "name": "The Catcher in the Rye",
+    "price": "11.99",
+    "author": "J.D. Salinger",
+    "description": "A story of teenage rebellion and alienation."
+  },
+  {
+    "bookId": "106",
+    "name": "The Hobbit",
+    "price": "12.99",
+    "author": "J.R.R. Tolkien",
+    "description": "A fantasy adventure about a hobbit's journey."
+  },
+  {
+    "bookId": "107",
+    "name": "Harry Potter and the Sorcerer's Stone",
+    "price": "14.99",
+    "author": "J.K. Rowling",
+    "description": "The first book in the Harry Potter series."
+  },
+  {
+    "bookId": "108",
+    "name": "The Alchemist",
+    "price": "9.99",
+    "author": "Paulo Coelho",
+    "description": "A philosophical novel about following your dreams."
+  },
+  {
+    "bookId": "109",
+    "name": "The Da Vinci Code",
+    "price": "13.99",
+    "author": "Dan Brown",
+    "description": "A thriller involving art, religion, and secret societies."
+  },
+  {
+    "bookId": "110",
+    "name": "The Hunger Games",
+    "price": "10.99",
+    "author": "Suzanne Collins",
+    "description": "A dystopian novel about survival and rebellion."
+  }
+]
